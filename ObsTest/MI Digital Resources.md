@@ -20,6 +20,8 @@
 
 ## MI Visualization
 - Pymatviz
+- Crystal Graph Convolution Neural Networks (CGCNN)
+	- Graph neural net
 
 ## Bayesian Optimization
 Bayesian Optimization, Gaussain Processes, etc. 
